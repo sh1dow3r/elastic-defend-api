@@ -1,0 +1,19 @@
+{
+  "cluster01" : {
+    "username": "api-user",
+    "password": "Password@123",
+    "base_url": "https://elastic.cloud.com",
+    "endpoint_ids": [
+      "2222222-1111-1111-AAAA-4AAAAAAAA",
+      "2222222-1111-1111-AAAA-4AAAAAAAA"
+    ]
+  },
+  "cluster02": {
+    "username": "api-user",
+    "password": "Password@123",
+    "base_url": "base_url": "https://elastic.cloud.com",,
+    "endpoint_ids": [
+      "3333333-1111-1111-AAAA-4AAAAAAAA"
+ ]
+  }
+}
